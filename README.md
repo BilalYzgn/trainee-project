@@ -9,7 +9,7 @@ Als Vorbereitung auf die Aufgaben sollten die folgenden Tutorials durchgearbeite
 4. https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops
 
 # Aufgaben
-Unter Issues sind einige Aufgaben verlinkt die zu erledigen sind. Diese Aufgaben verwenden die [Cat Facts API](catfact.ninja/). Die Cat Facts API ist eine REST API zum Abrufen von Fakten über Katzen. Die API ist sehr simpel, gut dokumentiert und öffentlich ohne API Key erreichbar. Wir verwenden diese API in den Aufgaben, da man somit sehr leicht den Umgang mit einer REST API lernen kann.
+Unter Issues sind einige Aufgaben verlinkt die zu erledigen sind. Diese Aufgaben verwenden die [Cat Facts API](https://catfact.ninja/). Die Cat Facts API ist eine REST API zum Abrufen von Fakten über Katzen. Die API ist sehr simpel, gut dokumentiert und öffentlich ohne API Key erreichbar. Wir verwenden diese API in den Aufgaben, da man somit sehr leicht den Umgang mit einer REST API lernen kann.
 
 # Starten der Anwendung
 Für die Ausgaben soll das .NET-Programm über die Kommandozeile ausgeführt werden. Dazu muss auf der Konsole der folgende Befehl eingegeben werden
