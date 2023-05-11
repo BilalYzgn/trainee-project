@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.Write("Helloooo");
+﻿using Flurl;
+using Flurl.Http;
+
+string factAlsString = await "https://catfact.ninja/fact".GetStringAsync();
+Console.WriteLine(factAlsString);
