@@ -1,5 +1,5 @@
 ﻿using Flurl;
 using Flurl.Http;
 
-string factAlsString = await "https://catfact.ninja/fact".GetStringAsync();
-Console.WriteLine(factAlsString);
+CatFact catFact1 = await "https://catfact.ninja/fact".GetJsonAsync<CatFact>();
+Console.WriteLine(catFact1.fact);
