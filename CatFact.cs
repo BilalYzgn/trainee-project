@@ -5,7 +5,7 @@ public class CatFact
     public void PasteConsole()
     {
     Console.WriteLine("---- Fact ----");
-    Console.WriteLine(fact);
+    Console.WriteLine(fact); 
     }
 }
 
